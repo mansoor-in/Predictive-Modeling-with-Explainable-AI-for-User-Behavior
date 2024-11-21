@@ -1,6 +1,6 @@
 
 ```markdown
-# Predictive Modeling with Explainable AI for User Behavior
+ Predictive Modeling with Explainable AI for User Behavior
 
 This project builds predictive models to analyze and forecast user behavior patterns. It incorporates Explainable AI (XAI) techniques to provide transparency and interpretability for model predictions, helping to uncover actionable insights.
 
